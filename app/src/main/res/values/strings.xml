@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PublicInfoTask</string>
+    <string name="menu_lable_one">MenuOne</string>
+    <string name="menu_lable_two">MenuTwo</string>
+    <string name="menu_lable_three">MenuThree</string>
+    <string name="enter_text">Enter text</string>
+    <string name="post_comment">post comment</string>
+</resources>
